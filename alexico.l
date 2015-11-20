@@ -1,11 +1,10 @@
-%{
+﻿%{
  /*
 ESCUELA POLITECNICA NACIONAL
 COMPILADORES
 INTEGRANTES:
--Aguirre Stalin
--Castillo Ana
--Vaca Steven
+-Diaz Esteban
+-Osorio Carlos
 */
 #include "asintactico.tab.h"
 int lineas=1;
