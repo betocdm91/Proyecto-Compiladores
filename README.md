@@ -1,2 +1,0 @@
-# Proyecto-Compiladores
-Analizador Sintactico
